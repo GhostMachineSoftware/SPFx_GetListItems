@@ -707,7 +707,7 @@ var MANIFESTS_ARRAY = [
         "officeFabricIconFontName": "Page",
         "properties": {
           "description": "Useful Links App",
-          "ClickHere": "java",
+          "EditLinks": "Links",
           "WebpartTitle": "Useful Links"
         }
       }
