@@ -23,7 +23,7 @@
     "@types/popper.js": "^1.11.0",
     "@types/webpack-env": "1.13.1",
     "bootstrap": "^4.4.1",
-    "jquery": "^3.4.1"
+    "jquery": "^3.5.0"
   },
   "devDependencies": {
     "@microsoft/sp-build-web": "1.10.0",
